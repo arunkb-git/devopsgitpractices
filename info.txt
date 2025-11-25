@@ -1,1 +1,10 @@
-added first line
+Practicing Git comments 
+banglore
+Java
+Devops
+QA
+cloud ops
+Client Support
+Company contact
+Address
+changes
